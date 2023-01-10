@@ -1,0 +1,6 @@
+Chicken Egg Foo Young							10.99
+Pork Egg Foo Young								10.99
+Beef Egg Foo Young								10.99
+Shrimp Egg Foo Young							10.99
+Vegetable Egg Foo Young							10.99
+Combo Egg Foo Young(Pork, Chicken, Shrimp)		11.99

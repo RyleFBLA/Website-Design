@@ -1,0 +1,6 @@
+Wonton Soup          2.95+
+Egg Drop Soup        2.95+
+Wonton Egg Drop Soup 3.50+
+Hot and Sour Soup    2.95+
+Vegetables Soup      6.95
+Chicken Rice Soup    6.95

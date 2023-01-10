@@ -1,0 +1,8 @@
+Chicken Lo Mein							8.95
+Pork Lo Mein							8.95
+Beef Lo Mein							8.95
+Shrimp Lo Mein							8.95
+Vegetable Lo Mein						8.95
+Combo Lo Mein(Pork, Chicken, Shrimp)	9.50
+Plain Lo Mein							5.95+
+ToFu Lo Mein							8.95

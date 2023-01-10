@@ -1,0 +1,7 @@
+Chicken Mai Fun							9.95
+Pork Mai Fun							9.95
+Beef Mai Fun							9.95
+Shrimp Mai Fun							9.95
+Vegetable Mai Fun						9.95
+Combo Mai Fun(Pork, Chicken, Shrimp)	10.25
+Singapore Mai Fun 						10.50

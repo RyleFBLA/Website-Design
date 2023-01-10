@@ -1,0 +1,24 @@
+C1 Bourbon Chicken (Grilled)(Required 25 minutes cooking)		9.25
+C2 Chicken Chow Mein											9.25
+C2 Shrimp Chow Mein												9.25
+C3 Sweet and Sour Chicken										9.25
+C4 Mixed Vegetable												9.25
+C5 Chicken Lo Mein												9.25
+C5 Shrimp Lo Mein												9.25
+C6 Pepper Steak with Onion										9.25
+C7 Moo Goo Gai Pan												9.25
+C8 Chicken with Broccoli										9.25
+C9 Beef with Broccoli											9.25
+C10 Chicken w. Cashew Nuts										9.25
+C11 Orange Chicken 												9.25
+C11 Sesame Chicken												9.25
+C11 General Tso's Chicken 										9.25
+C12 Beef with Garlic Sauce 										9.25
+C13 Szechuan Chicken 											9.25
+C13 Szechuan Beef 												9.25
+C14 Hunan Chicken 												9.25
+C15 Chicken with Garlic Sauce 									9.25
+C16 Jumbo Shrimp with Broccoli									9.25
+C17 Szechuan Jumbo Shrimp 										9.25
+C18 Hunan Jumbo Shrimp 											9.25
+C19 Jumbo Shrimp with Garlic Sauce 								9.25

@@ -1,0 +1,12 @@
+P1 Egg Roll (20)															32.00
+P2 Crab Rangoon																42.00
+P3 Chicken on Stick															40.00
+P4 Chicken Fried Rice														40.00
+P5 Chicken Lo Mein															42.00
+P6 Sweet and Sour Chicken													45.00
+P7 General Tso's Chicken 													48.00
+P8 Kung Pao Chicken 														48.00
+P9 Black Pepper Chicken 													48.00
+P10 Sesame Chicken															48.00
+P11 Chinese Donut(30)														15.00
+P12 Appetizer Combo [Egg Roll(10) Crab Rangoon(18) Chicken on Stick(12)]	45.00

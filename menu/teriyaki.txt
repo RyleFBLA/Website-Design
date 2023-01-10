@@ -1,0 +1,8 @@
+Teriyaki Vegetable										10.99
+Teriyaki Tofu											11.75
+Teriyaki Chicken										13.95
+Teriyaki Steak											15.95
+Teriyaki Shrimp											13.95
+Teriyaki Combination: Chicken & Steak					17.95
+Teriyaki Combination: Steak & Shrimp					17.95
+Super Teriyaki (Served w. chicken, steak, shrimp)		17.95

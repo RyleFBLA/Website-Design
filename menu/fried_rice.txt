@@ -1,0 +1,10 @@
+Chicken Fried Rice							8.50
+Pork Fried Rice								8.50
+Beef Fried Rice								8.50
+Shrimp Fried Rice							8.50
+Vegetable Fried Rice						8.50
+Combo Fried Rice(Pork, Chicken, Shrimp)		9.50
+Plain Fried Rice							3.95+
+Yangzhou Fried Rice							9.95
+Egg Frice									8.50
+Fried Rice									3.95+
