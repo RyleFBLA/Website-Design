@@ -8,10 +8,10 @@
 	padding:60px 0px;
 }
 .center {
-	display:block;
 	margin-left: auto;
   	margin-right: auto;
-  	width: 50%;
+  	width: 290px;
+	height:220px;
 }
 
 .navBar{
