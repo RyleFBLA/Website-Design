@@ -23,6 +23,28 @@
 	background: rgba(0,0,0,0.5);
 }
 
+.navBar .logo {
+	height: 220px; 
+	left: 0;
+	margin: 0 auto;
+	padding: 0px; 
+	position: absolute;
+	right: 0;
+	top: -81px;
+	width: 290px;
+}
+
+.navBar .logo a {
+	float:left; 
+	height:100%; 
+	width:100%;
+}
+
+.navBar .logo a img{
+	padding-top: 35px;
+	width: 100%;
+}
+
 .navBar .menuLeft{
 	float:left;
 	width:30%;
