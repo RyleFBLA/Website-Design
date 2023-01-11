@@ -29,11 +29,18 @@
 	line-height: 42px;
 }
 
+.navBar .menuLeft li{
+	display: inline-block;
+}
 .navBar .menuRight{
 	float:right;
 	width: 36%;
 	line-height: 42px;
 	text-align: right;
+}
+
+.navBar .menuRight li{
+	display: inline-block;
 }
 
 .currentButton{
