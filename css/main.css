@@ -23,6 +23,19 @@
 	background: rgba(0,0,0,0.5);
 }
 
+.navBar .menuLeft{
+	float:left;
+	width:30%;
+	line-height: 42px;
+}
+
+.navBar .menuRight{
+	float:right;
+	width: 36%;
+	line-height: 42px;
+	text-align: right;
+}
+
 .currentButton{
 	display:inline-block;
 	text-align:center;	
