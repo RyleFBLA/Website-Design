@@ -7,13 +7,23 @@
 	background-size:cover; 
 	padding:60px 0px;
 }
+.center {
+	display:block;
+	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
 
+<<<<<<< HEAD
 .center{
 	display:block;
 	margin-left:auto;
 	margin-right: auto;
 	width:50%;
 }
+=======
+}
+
+>>>>>>> 96938ba643337107bc2bb00c4452097a65f5f02f
 
 .navBar{
 	position:fixed;
@@ -51,4 +61,5 @@
 	font-size:24px;
 	cursor:pointer;
 }
+
 
