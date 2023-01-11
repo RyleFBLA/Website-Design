@@ -12,7 +12,6 @@
 .navBar{
 	float:left;
 	width:100%; 
-	background: rgba(0, 0, 0, 0.5); 
 	padding:33px 0px; 
 	margin-top:20px; 
 	position:relative;
@@ -54,6 +53,7 @@
 	width: 36%;
 	line-height: 42px;
 	text-align: right;
+	padding-right: 5%;
 }
 
 .navBar .menuRight li{
