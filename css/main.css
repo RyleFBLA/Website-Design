@@ -9,7 +9,6 @@
 	background-size:cover; 
 	padding:60px 0px;
 	text-align:center;
-	position:fixed;
 }
 
 /** Navigation Bar **/
@@ -47,6 +46,7 @@
 	float:left;
 	width:30%;
 	line-height: 42px;
+	position: fixed;
 }
 
 .navBar .menuLeft li{
@@ -58,6 +58,7 @@
 	line-height: 42px;
 	text-align: right;
 	padding-right: 5%;
+	position: fixed;
 }
 
 .navBar .menuRight li{
