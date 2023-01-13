@@ -9,6 +9,7 @@
 	background-size:cover; 
 	padding:60px 0px;
 	text-align:center;
+	position:static;
 }
 
 /** Navigation Bar **/
@@ -96,7 +97,7 @@
 .locationPic{
 	border: 10px #555;
   	padding: 15px;
-	padding-top: 10%;
+	margin-top: 15px;
 	text-align: left;
 	margin-left: auto;
 	margin-right: auto;
@@ -109,6 +110,7 @@
 	padding: 25px 0px;
 	width: 100%;
 	padding-bottom: 15px;
+	background: url(https://www.shanghaigardenunion.com/assets/img/gallery_images//gallery15859259860.jpg);
 }
 
 .footer .main{
@@ -122,6 +124,7 @@
 	float: left;
 	width:25%;
 	line-height: 25px;
+	padding-left: 10%;
 }
 
 .footer .main .mail{
