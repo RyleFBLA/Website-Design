@@ -100,10 +100,9 @@
 	padding-bottom: 15px;
 }
 .locationPic{
-	margin-right:auto;
-	margin-left:auto;
-	text-align:left;
-	border: 5px solid #555;
+	border: 10px solid transparent;
+  	padding: 15px;
+  	border-image: url(imgs\shanghai_garden_exterior.png) 20% round;
 }
 
 .footer .main{
