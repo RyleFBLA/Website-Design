@@ -105,3 +105,31 @@
 	text-align:left;
 	border: 5px solid #555;
 }
+
+.footer .main{
+	margin-bottom: 25px;
+	float: left;
+	width: 100%;
+}
+
+.footer .main .phone{
+	font-size: 18px;
+	float: left;
+	width:25%;
+	line-height: 25px;
+}
+
+.footer .main .mail{
+	font-size: 18px;
+	float: left;
+	width: 41%;
+	margin-right: 0px;
+	line-height: 25px;
+}
+
+.footer .main .location{
+	font-size: 18px;
+	float: right;
+	width: 25%;
+	line-height: 25px;
+}
