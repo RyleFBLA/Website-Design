@@ -113,12 +113,14 @@
 	width: 100%;
 	padding-bottom: 15px;
 	background: url(https://www.shanghaigardenunion.com/assets/img/gallery_images//gallery15859259860.jpg);
+
 }
 
 .footer .main{
 	margin-bottom: 25px;
 	float: left;
 	width: 100%;
+	background: rgba(0, 0, 0, 0.5);
 }
 
 .footer .main .phone{
@@ -127,6 +129,7 @@
 	width:25%;
 	line-height: 25px;
 	padding-left: 10%;
+	color:#b4b1ba;
 }
 
 .footer .main .mail{
@@ -135,6 +138,7 @@
 	width: 41%;
 	margin-right: 0px;
 	line-height: 25px;
+	color:#b4b1ba;
 }
 
 .footer .main .location{
@@ -142,4 +146,5 @@
 	float: right;
 	width: 25%;
 	line-height: 25px;
+	color:#b4b1ba;
 }
