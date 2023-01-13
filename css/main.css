@@ -9,6 +9,7 @@
 	background-size:cover; 
 	padding:60px 0px;
 	text-align:center;
+	position:fixed;
 }
 
 /** Navigation Bar **/
@@ -17,7 +18,7 @@
 	width:100%; 
 	padding:33px 0px; 
 	margin-top:20px; 
-	position:static;
+	position:relative;
 }
 
 .navBar .logo {
