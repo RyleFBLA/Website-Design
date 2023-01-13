@@ -46,7 +46,6 @@
 	float:left;
 	width:30%;
 	line-height: 42px;
-	position: fixed;
 }
 
 .navBar .menuLeft li{
@@ -58,7 +57,6 @@
 	line-height: 42px;
 	text-align: right;
 	padding-right: 5%;
-	position: fixed;
 }
 
 .navBar .menuRight li{
@@ -130,7 +128,7 @@
 	width:25%;
 	line-height: 25px;
 	padding-left: 10%;
-	color:#b4b1ba;
+	color:#dbd8e3;
 }
 
 .footer .main .mail{
@@ -139,7 +137,7 @@
 	width: 41%;
 	margin-right: 0px;
 	line-height: 25px;
-	color:#b4b1ba;
+	color:#dbd8e3;
 }
 
 .footer .main .location{
@@ -147,6 +145,6 @@
 	float: right;
 	width: 25%;
 	line-height: 25px;
-	color:#b4b1ba;
-	padding-right: 20px;
+	color:#dbd8e3;
+	padding-left: 20px;
 }
