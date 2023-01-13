@@ -101,6 +101,8 @@
 	text-align: left;
 	margin-left: auto;
 	margin-right: auto;
+	float: left;
+	border: 20px #555;
   	border-image: url(imgs\shanghai_garden_exterior.png) 20% round;
 }
 
