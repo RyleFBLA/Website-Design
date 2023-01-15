@@ -1,4 +1,9 @@
 
+.webBorder{
+	border-width: 5px;
+	border-style: dashed;
+	border-color: #555;
+}
 /** Top of the page **/
 .header{
 	background:url(https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-chinese-food-pasta-simple-white-banner-image_179324.jpg);
