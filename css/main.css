@@ -122,7 +122,7 @@
 .footer .main{
 	margin-bottom: 100px;
 	float: left;
-	float: bottom;
+	margin-top: -50px;
 	width: 100%;
 	background: rgba(0, 0, 0, 0.5);
 }
