@@ -106,7 +106,6 @@
 	text-align: left;
 	margin-left: auto;
 	margin-right: auto;
-	float: left;
   	border-image: url(imgs\shanghai_garden_exterior.png) 20% round;
 }
 .interiorPic{
@@ -117,7 +116,6 @@
 	text-align: right;
 	margin-left: auto;
 	margin-right: auto;
-	float:right;
   	border-image: url(https://s3-media0.fl.yelpcdn.com/bphoto/2_pkWi-W8jO0zws1XvcvAQ/348s.jpg) 20% round;
 }
 
