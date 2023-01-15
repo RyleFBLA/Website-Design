@@ -1,8 +1,8 @@
 
 .webBorder{
 	border-width: 5px;
-	border-style: dashed;
-	border-color: #555;
+	border-style: solid;
+	border-color: white;
 }
 /** Top of the page **/
 .header{
