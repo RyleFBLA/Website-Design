@@ -106,8 +106,6 @@
 	margin-left: auto;
 	margin-right: auto;
   	border-image: url(imgs\shanghai_exterior.png) 20% round;
-	max-height: 10%;
-	width: auto;
 }
 .interiorPic{
 	padding: 5px;
@@ -117,8 +115,6 @@
 	margin-right: auto;
 	text-align: right;
   	border-image: url(img\shanghai_interior1.png) 20% round;
-	max-height: 10%;
-	width: auto;
 }
 
 /** Footer **/
