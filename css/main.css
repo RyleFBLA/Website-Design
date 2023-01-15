@@ -105,9 +105,7 @@
 	float:left;
 	margin-left: auto;
 	margin-right: auto;
-	width: 722px;
-	height:608px;
-  	border-image: url(imgs\shanghai_garden_exterior.png) 20% round;
+  	border-image: url(imgs\shanghai_exterior.png) 20% round;
 }
 .interiorPic{
 	padding: 5px;
@@ -116,9 +114,7 @@
 	margin-left: auto;
 	margin-right: auto;
 	text-align: right;
-	width:722px;
-	height:500px;
-  	border-image: url(img\shanghai_interior1) 20% round;
+  	border-image: url(img\shanghai_interior1.png) 20% round;
 }
 
 /** Footer **/
