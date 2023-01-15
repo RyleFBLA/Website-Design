@@ -107,13 +107,23 @@
 	margin-right: auto;
 	width: 722px;
 	height:608px;
+  	border-image: url(imgs\shanghai_garden_exterior.png) 20% round;
+}
+.interiorPic{
+	padding: 5px;
+	margin-top: 15px;
+	float:right;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: right;
+	width:722px;
+	height:500px;
+  	border-image: url(https://s3-media0.fl.yelpcdn.com/bphoto/2_pkWi-W8jO0zws1XvcvAQ/348s.jpg) 20% round;
 }
 
 /** Footer **/
 .footer{
 	float: left;
-	float:bottom;
-	margin-top:-50px;
 	padding: 25px 0px;
 	width: 100%;
 	padding-bottom: 15px;
@@ -122,7 +132,7 @@
 }
 
 .footer .main{
-	margin-bottom: 100px;
+	margin-bottom: 25px;
 	float: left;
 	width: 100%;
 	background: rgba(0, 0, 0, 0.5);
