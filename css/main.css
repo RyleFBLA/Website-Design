@@ -111,6 +111,11 @@
 	margin-right: auto;
   	border-image: url(imgs\shanghai_exterior.png) 20% round;
 }
+.locationText{
+	text-align: right;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size:30px;
+}
 .interiorPic{
 	padding: 5px;
 	margin-top: 15px;
