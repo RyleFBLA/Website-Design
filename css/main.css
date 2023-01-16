@@ -1,9 +1,4 @@
 /**Background**/
-.webBorder{
-	border-width: 1px;
-	border-style: solid;
-	border-color: white;
-}
 
 .background{
 	background: rgba(173, 19, 19, 0.5);
