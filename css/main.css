@@ -102,6 +102,11 @@
 }
 
 /** Home page **/
+.container1{
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
 .locationPic{
 	text-align: left;
   	padding: 5px;
@@ -109,15 +114,12 @@
 	float:left;
 	margin-left: auto;
 	margin-right: auto;
-	height:30%;
-	width:30%;
+	max-height:50%;
+	max-width:50%;
 }
-.locationPic .locationTitle{
-	text-align: right;
-	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-	font-size:100px;
-	margin-left:auto;
-	margin-right:auto;
+.locationTitle{
+	font-size: 20 px;
+	padding-left:20px;
 }
 .interiorPic{
 	padding: 5px;
@@ -126,8 +128,8 @@
 	margin-left: auto;
 	margin-right: auto;
 	text-align: right;
-	height:30%;
-	width:30%;
+	max-height:50%;
+	max-width:50%;
 }
 
 /** Footer **/
