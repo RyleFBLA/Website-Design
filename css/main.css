@@ -120,6 +120,8 @@
 .locationTitle{
 	font-size: 20 px;
 	padding-left:20px;
+	padding-top:20%;
+	float:left;
 }
 .interiorPic{
 	padding: 5px;
