@@ -127,9 +127,8 @@
 	float:right;
 	margin-left: auto;
 	margin-right: auto;
-	text-align: right;
-	max-height:50%;
-	max-width:50%;
+	max-height:25%;
+	max-width:15%;
 }
 
 /** Footer **/
