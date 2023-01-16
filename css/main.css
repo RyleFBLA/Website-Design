@@ -109,8 +109,6 @@
 	float:left;
 	margin-left: auto;
 	margin-right: auto;
-	height:50%;
-	width:50%;
 }
 .interiorPic{
 	padding: 5px;
@@ -119,8 +117,13 @@
 	margin-left: auto;
 	margin-right: auto;
 	text-align: right;
-	height:50%;
-	width:50%;
+
+}
+.featuredItem{
+	float:center;
+	text-align:center;
+	font-family: "Times New Roman";
+	font-size: 50px;
 }
 
 /** Footer **/
