@@ -102,24 +102,15 @@
 }
 
 /** Home page **/
-.container1{
-	align-items: center;
-	justify-content: center;
-}
 .locationPic{
+	text-align: left;
   	padding: 5px;
 	margin-top: 15px;
 	float:left;
 	margin-left: auto;
 	margin-right: auto;
-	max-height:25%;
-	max-width:15%;
-}
-.locationTitle{
-	font-size: 20 px;
-	padding-left:20px;
-	padding-top:20%;
-	float:right;
+	max-height:50%;
+	max-width:50%;
 }
 .interiorPic{
 	padding: 5px;
@@ -127,8 +118,9 @@
 	float:right;
 	margin-left: auto;
 	margin-right: auto;
-	max-height:25%;
-	max-width:15%;
+	text-align: right;
+	max-height:50%;
+	max-width:50%;
 }
 
 /** Footer **/
