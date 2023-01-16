@@ -109,12 +109,14 @@
 	float:left;
 	margin-left: auto;
 	margin-right: auto;
+	height:50%;
+	width:50%;
   	border-image: url(imgs\shanghai_exterior.png) 20% round;
 }
-.locationText{
+.locationTitle{
 	text-align: right;
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-	font-size:30px;
+	font-size:100px;
 }
 .interiorPic{
 	padding: 5px;
@@ -123,6 +125,8 @@
 	margin-left: auto;
 	margin-right: auto;
 	text-align: right;
+	height:50%;
+	width:50%;
   	border-image: url(img\shanghai_interior1.png) 20% round;
 }
 
