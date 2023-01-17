@@ -108,8 +108,8 @@
 	display: inline-block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 10%;
-	height: 10%;
+	width: 540px;
+	height: 540px;
 }
 
 
@@ -119,8 +119,8 @@
 	float:right;
 	margin-left: auto;
 	margin-right: auto;
-	width: 10%;
-	height: 10%;
+	width: 540px;
+	height: 540px;
 }
 
 .featuredItem{
