@@ -108,10 +108,13 @@
 	display: inline-block;
 	margin-left: auto;
 	margin-right: auto;
+	
+}
+
+.locationPic img{
 	width: 540px;
 	height: 540px;
 }
-
 
 .interiorPic{
 	padding: 5px;
@@ -119,6 +122,9 @@
 	float:right;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.interiorPic img{
 	width: 540px;
 	height: 540px;
 }
