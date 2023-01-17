@@ -124,6 +124,11 @@
 	font-size: 50px;
 }
 
+.featuredItem img{
+	width: 540px;
+	height: 540px;
+}
+
 /** Footer **/
 .footer{
 	float: left;
