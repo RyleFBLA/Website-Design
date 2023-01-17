@@ -100,6 +100,16 @@
 }
 
 /** Home page **/
+.home{
+	display: grid;
+	align-items: center; 
+	grid-template-columns: 1fr 1fr 1fr;
+	column-gap: 5px;
+}
+.home .text{
+	font-size: 30px;
+}
+
 .locationPic{
   	padding: 5px;
 	margin-top: 15px;
@@ -110,15 +120,6 @@
 	max-height: 100%;
 }
 
-.home{
-	display: grid;
-	align-items: center; 
-	grid-template-columns: 1fr 1fr 1fr;
-	column-gap: 5px;
-}
-.home .text{
-	font-size: 30px;
-}
 /**
 .interiorPic{
 	padding: 5px;
