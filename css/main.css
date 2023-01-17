@@ -101,22 +101,21 @@
 
 /** Home page **/
 .locationPic{
-	text-align: left;
   	padding: 5px;
 	margin-top: 15px;
-	float:left;
+	display: inline-block;
 	margin-left: auto;
 	margin-right: auto;
 }
+/**
 .interiorPic{
 	padding: 5px;
 	margin-top: 15px;
 	float:right;
 	margin-left: auto;
 	margin-right: auto;
-	text-align: right;
-
 }
+**/
 .featuredItem{
 	float:center;
 	text-align:center;
