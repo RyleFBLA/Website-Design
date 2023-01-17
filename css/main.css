@@ -101,10 +101,9 @@
 
 /** Home page **/
 .home{
-	display: grid;
-	align-items: center; 
-	grid-template-columns: 1fr 1fr 1fr;
-	column-gap: 5px;
+	display: flex;
+  	align-items: center;
+  	justify-content: center
 }
 .home .text{
 	font-size: 30px;
