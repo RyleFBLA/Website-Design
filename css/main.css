@@ -100,8 +100,6 @@
 }
 
 /** Home page **/
-
-
 .locationPic{
   	padding: 5px;
 	margin-top: 15px;
@@ -114,6 +112,10 @@
 .locationPic img{
 	width: 540px;
 	height: 540px;
+}
+
+.text{
+	text-align: center;
 }
 
 .interiorPic{
