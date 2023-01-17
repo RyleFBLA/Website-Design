@@ -126,7 +126,10 @@
 
 .featuredItem img{
 	width: 540px;
-	height: 540px;
+	height: 500px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: white;
 }
 
 /** Footer **/
