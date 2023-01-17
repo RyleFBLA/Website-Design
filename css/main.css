@@ -100,41 +100,29 @@
 }
 
 /** Home page **/
-.home{
-	display: grid;
-	align-items: center; 
-	grid-template-columns: 1fr 1fr 1fr;
-	column-gap: 5px;
-}
-.home .text{
-	font-size: 30px;
-	padding-left: 20px;
-}
 
-.home img{
-	max-width: 100%;
-	max-height: 100%;
-}
 
-/**
 .locationPic{
   	padding: 5px;
 	margin-top: 15px;
 	display: inline-block;
 	margin-left: auto;
 	margin-right: auto;
-	
+	width: 50%;
+	height: 50%;
 }
-**/
-/**
+
+
 .interiorPic{
 	padding: 5px;
 	margin-top: 15px;
 	float:right;
 	margin-left: auto;
 	margin-right: auto;
+	width: 50%;
+	height: 50%;
 }
-**/
+
 .featuredItem{
 	float:center;
 	text-align:center;
