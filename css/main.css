@@ -144,7 +144,7 @@
 }
 
 .itemSec{
-	float: left;
+	float: center;
 	text-align: center;
 	padding: 2% 0;
 	width: 100%;
@@ -153,7 +153,7 @@
 .featuredItem{
 	padding: 10px 0 0 10px;
 	margin-top: 15px;
-	float: center;
+	float: left;
 	width: 44%;
 }
 
