@@ -136,26 +136,37 @@
 	margin-top: 22px;
 	float:right;
 	text-align: left;
-	width: 50%;
+	width: 44%;
 }
 
 .interiorPic img{
 	width: 100%;
 }
 
+.itemSec{
+	float: left;
+	text-align: center;
+	padding: 2% 0;
+	width: 100%;
+}
+
 .featuredItem{
-	float:center;
-	text-align:center;
-	font-family: "Times New Roman";
-	font-size: 50px;
+	padding: 10px 0 0 10px;
+	margin-top: 15px;
+	float:left;
+	width: 44%;
 }
 
 .featuredItem img{
-	width: 540px;
-	height: 500px;
+	width: 100%;
 	border-width: 5px;
 	border-style: solid;
 	border-color: white;
+}
+
+.featuredItem p{
+	font-family:'Times New Roman', Times, serif;
+	font-size: 20px;
 }
 
 /** Footer **/
