@@ -109,11 +109,9 @@
 }
 
 .locationPic{
-  	padding: 10px 0 0 10 px;
+  	padding: 10px 0 0 10px;
 	margin-top: 15px;
 	float:left;
-	margin-left: auto;
-	margin-right: auto;
 	width: 44%;
 }
 
@@ -122,20 +120,27 @@
 }
 
 .locationPic h1{
-	padding-left: 100px;
+	float: left;
+	width: 100%;
+	margin-bottom: 40px;
+}
+
+.mainSec .locationPic p{
+	float: left;
+	width: 100%;
+	margin-bottom: 20px;
 }
 
 .interiorPic{
 	padding: 5px;
-	margin-top: 15px;
+	margin-top: 22px;
 	float:right;
-	margin-left: auto;
-	margin-right: auto;
+	text-align: left;
+	width: 50%;
 }
 
 .interiorPic img{
-	width: 540px;
-	height: 540px;
+	width: 100%;
 }
 
 .featuredItem{
