@@ -164,7 +164,15 @@
 	border-color: white;
 }
 
-.featuredItem p{
+.featuredItemText {
+	padding: 5px;
+	margin-top: 22px;
+	float:right;
+	text-align: left;
+	width: 44%;
+}
+
+.featuredItemText p{
 	font-family:'Times New Roman', Times, serif;
 	font-size: 20px;
 }
