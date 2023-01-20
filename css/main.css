@@ -176,7 +176,37 @@
 	font-family:'Times New Roman', Times, serif;
 	font-size: 20px;
 }
+/** Menu Page **/
 
+.menu {
+	width: 200px;
+  }
+  
+  .menu a {
+	background-color: #eee; 
+	color: black; 
+	display: block; 
+	padding: 12px; 
+	text-decoration: none; 
+  }
+  
+  .menu a:hover {
+	background-color: #ccc; 
+  }
+  
+  .menu a.active {
+	background-color: rgba(120, 12, 12, 0.5); 
+	color: black;
+  }
+  
+  .menuItems{
+	  float: center;
+  }
+  
+  .menuItems object{
+	  float: center;
+  }
+  
 /** Footer **/
 .footer{
 	float: left;
