@@ -1,12 +1,10 @@
 /**Background**/
-.webBorder{
-	border-width: 1px;
-	border-style: solid;
-	border-color: white;
-}
 
 .background{
 	background: rgba(173, 19, 19, 0.5);
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
 }
 /** Top of the page **/
 .header{
@@ -102,37 +100,120 @@
 }
 
 /** Home page **/
+
+.mainSec{
+	float: left;
+	text-align: center;
+	padding: 2% 0;
+	width: 100%;
+}
+
 .locationPic{
-	text-align: left;
-  	padding: 5px;
+  	padding: 10px 0 0 10px;
 	margin-top: 15px;
 	float:left;
-	margin-left: auto;
-	margin-right: auto;
+	width: 44%;
 }
+
+.locationPic img{
+	width: 100%;
+}
+
+.locationPic h1{
+	float: left;
+	width: 100%;
+	margin-bottom: 40px;
+}
+
+.mainSec .locationPic p{
+	float: left;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
 .interiorPic{
 	padding: 5px;
-	margin-top: 15px;
+	margin-top: 22px;
 	float:right;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: right;
-
+	text-align: left;
+	width: 44%;
 }
+
+.interiorPic img{
+	width: 100%;
+}
+
+.itemSec{
+	float: center;
+	text-align: center;
+	padding: 2% 0;
+	width: 100%;
+}
+
 .featuredItem{
-	float:center;
-	text-align:center;
-	font-family: "Times New Roman";
-	font-size: 50px;
+	padding: 10px 0 0 10px;
+	margin-top: 15px;
+	float: left;
+	width: 44%;
 }
 
+.featuredItem img{
+	width: 100%;
+	border-width: 5px;
+	border-style: solid;
+	border-color: white;
+}
+
+.featuredItemText {
+	padding: 5px;
+	margin-top: 22px;
+	float:right;
+	text-align: left;
+	width: 44%;
+}
+
+.featuredItemText p{
+	font-family:'Times New Roman', Times, serif;
+	font-size: 20px;
+}
+/** Menu Page **/
+
+.menu {
+	width: 200px;
+  }
+  
+  .menu a {
+	background-color: #eee; 
+	color: black; 
+	display: block; 
+	padding: 12px; 
+	text-decoration: none; 
+  }
+  
+  .menu a:hover {
+	background-color: #ccc; 
+  }
+  
+  .menu a.active {
+	background-color: rgba(120, 12, 12, 0.5); 
+	color: black;
+  }
+  
+  .menuItems{
+	  float: center;
+  }
+  
+  .menuItems object{
+	  float: center;
+  }
+  
 /** Footer **/
 .footer{
 	float: left;
 	padding: 25px 0px;
 	width: 100%;
 	padding-bottom: 15px;
-	background: url(https://www.shanghaigardenunion.com/assets/img/gallery_images//gallery15859259860.jpg);
+	background: url(https://www.hotelmousai.com/blog/wp-content/uploads/2021/12/The-10-Most-Popular-Dishes-in-China-1140x694.jpg);
 
 }
 
