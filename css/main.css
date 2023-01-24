@@ -179,6 +179,11 @@
 }
 /** Menu Page **/
 
+.menuAll{
+	display: inline-block;
+	overflow: scroll;
+}
+
 .menu {
 	width: 200px;
   }
