@@ -201,10 +201,10 @@
   }
   
   .menuItems{
-	  float: center;
+	  float: right;
   }
   
-  .menuItems object{
+  .menuItems .item{
 	  float: center;
   }
   
