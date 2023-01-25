@@ -151,6 +151,18 @@
 	width: 100%;
 }
 
+.homeTable th, td{
+	border: 5px solid;
+	font-family:'Times New Roman', Times, serif;
+	font-size: 50px;
+	font-weight: bold;
+}
+.homeTable td{
+	border: 3px solid;
+	font-size:30px;
+	font-family:'Times New Roman', Times, serif;
+}
+
 .featuredItem{
 	padding: 10px 0 0 10px;
 	margin-top: 15px;
