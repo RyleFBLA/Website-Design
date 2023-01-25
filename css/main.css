@@ -191,6 +191,11 @@
 }
 /** Menu Page **/
 
+.menuAll{
+	display: inline-block;
+	overflow: scroll;
+}
+
 .menu {
 	width: 200px;
   }
@@ -213,10 +218,10 @@
   }
   
   .menuItems{
-	  float: center;
+	  float: right;
   }
   
-  .menuItems object{
+  .menuItems .item{
 	  float: center;
   }
   
