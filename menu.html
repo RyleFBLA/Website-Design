@@ -27,30 +27,31 @@
 		</div>
 		
 	</header>
-	<div class="menuAll">
-		<div class="menu">
-			<a href="#" class="active">Appetizers</a>
-			<a href="#">Soup</a>
-			<a href="#">Fried Rice</a>
-			<a href="#">Lo Mein</a>
-			<a href="#">Mai Fun</a>
-			<a href="#">Chicken</a>
-			<a href="#">Beef</a>
-			<a href="#">Seafood</a>
-			<a href="#">Vegetable</a>
-			<a href="#">Pork</a>
-			<a href="#">Sweet & Sour</a>
-			<a href="#">Moo Shu</a>
-			<a href="#">Egg Foo Young</a>
-			<a href="#">Chef's Specialties</a>
-			<a href="#">Combination Platters</a>
-			<a href="#">Diet Special</a>
-			<a href="#">Hibachi</a>
-			<a href="#">Teriyaki</a>
-			<a href="#">Side Order</a>
-			<a href="#">Extra Meat</a>
-			<a href="#">Party Order Special</a>
+	<div class="menuAll" id="myDiv">
+		<div class="menu" id="menu">
+			<button class="btn active">Appetizers</button>
+			<button class="btn">Soup</button>
+			<button class="btn">Fried Rice</button>
+			<button class="btn">Lo Mein</button>
+			<button class="btn">Mai Fun</button>
+			<button class="btn">Chicken</button>
+			<button class="btn">Beef</button>
+			<button class="btn">Seafood</button>
+			<button class="btn">Vegetable</button>
+			<button class="btn">Pork</button>
+			<button class="btn">Sweet & Sour</button>
+			<button class="btn">Moo Shu</button>
+			<button class="btn">Egg Foo Young</button>
+			<button class="btn">Chef's Specialties</button>
+			<button class="btn">Combination Platters</button>
+			<button class="btn">Diet Special</button>
+			<button class="btn">Hibachi</button>
+			<button class="btn">Teriyaki</button>
+			<button class="btn">Side Order</button>
+			<button class="btn">Extra Meat</button>
+			<button class="btn">Party Order Special</button>
 		</div>
+
 		<div class="menuItems">
 			<div class="item">
 				<object data="menu\appetizers.txt"></object>
@@ -116,8 +117,24 @@
 				<object data="menu\party_order_special.txt"></object>
 			</div>
 		</div>
+
 	</div>
 	
+	<script>
+		var header = document.getElementById("myDiv");
+		var btns = header.getElementsByClassName("btn");
+		for (var i = 0; i < btns.length; i++)
+		{
+			btns[i].addEventListener("click", function() 
+			{
+				var current = 
+				document.getElementsByClassName("active");
+				current[0].className = 
+				current[0].className.replace("active", "");
+				this.className += " active";
+			});
+		}
+	</script>
 
 	<footer class="footer">
 		<div class="main">
