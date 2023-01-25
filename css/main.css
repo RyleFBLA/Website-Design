@@ -142,6 +142,7 @@
 
 .interiorPic img{
 	width: 100%;
+	border-image: url()
 }
 
 .itemSec{
