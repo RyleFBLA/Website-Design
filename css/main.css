@@ -193,37 +193,53 @@
 /** Menu Page **/
 
 .menuAll{
-	display: inline-block;
-	overflow: scroll;
+	float: left;
+	text-align: center;
+	padding: 2% 0;
+	width: 100%;
 }
 
 .menu {
-	width: 200px;
+	display: block;
+	justify-content: left;
+	align-items: left;
   }
   
-  .menu a {
+  .btn {
 	background-color: #eee; 
 	color: black; 
 	display: block; 
 	padding: 12px; 
-	text-decoration: none; 
+	text-decoration: none;
+	float: left; 
+	cursor: pointer;
+	border-color: white;
   }
   
-  .menu a:hover {
-	background-color: #ccc; 
+  .btn::before{
+	background-color: #eee; 
+	color: black; 
+	display: block; 
+	padding: 12px; 
+	text-decoration: none;
+	float: left; 
+	border-color: white;
   }
   
-  .menu a.active {
+  .active, .btn:hover{
 	background-color: rgba(120, 12, 12, 0.5); 
 	color: black;
   }
   
   .menuItems{
-	  float: right;
+	margin-top: 22px;
+	float:right;
+	text-align: left;
+	width: 44%;
   }
   
   .menuItems .item{
-	  float: center;
+	  float: left;
   }
   
 /** Footer **/
