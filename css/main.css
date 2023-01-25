@@ -138,14 +138,12 @@
 	float:right;
 	text-align: left;
 	width: 44%;
-	border-image: url(border.png);
-	border: 10px solid transparent;
 }
 
 .interiorPic img{
 	width: 100%;
 	border-image: url(border.png);
-	border: 10px solid transparent;
+	border: 10px solid;
 }
 
 .itemSec{
