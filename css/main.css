@@ -253,12 +253,20 @@
 .GalleryTitle{
 	padding: 10px 0 0 10px;
 	margin-top: 15px;
-	float: left;
+	float: center;
 	width: 44%;
 }
+.GalleryText {
+	padding: 50px;
+	margin-top: 50px;
+	float:right;
+	text-align: center;
+	width: 44%;
+	margin-top:150px;
 
+}
 .GalleryTitle img{
-	width: 100%;
+	width: 50%;
 	border-width: 5px;
 	border-style: solid;
 	border-color: white;
