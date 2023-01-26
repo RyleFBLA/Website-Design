@@ -249,15 +249,21 @@
 	  float: left;
   }
 /** Gallery **/
-
-.GalleryTitle img{
-	border-width: 5px;
-	border-style: solid;
-	border-color: white;
-}
-.GalleryTitle p{
+.GalleryTitle{
 	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-	font-size: 50px;
+	font-size: 30px;
+}
+.alignLeft{
+	align-items:left;
+	border-width: 5px;
+	border-style:solid;
+	border-color:black;
+}
+.alignRight{
+	align-items:right;
+	border-width: 5px;
+	border-style:solid;
+	border-color:black;
 }
 
   
