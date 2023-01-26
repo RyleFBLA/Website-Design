@@ -123,6 +123,7 @@
 	<script>
 		var header = document.getElementById("myDiv");
 		var btns = header.getElementsByClassName("btn");
+		var items = header.getElementsByClassName("item");
 		for (var i = 0; i < btns.length; i++)
 		{
 			btns[i].addEventListener("click", function() 
@@ -132,6 +133,7 @@
 				current[0].className = 
 				current[0].className.replace("active", "");
 				this.className += " active";
+				items[i] += " active";
 			});
 		}
 	</script>
