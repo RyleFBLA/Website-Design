@@ -251,6 +251,10 @@
   }
 /** Gallery **/
 
+.GalleryTitle{
+	width:44%;
+}
+
 .GalleryTitle img{
 	width: 50%;
 	height:50%;
