@@ -252,6 +252,7 @@
 .center{
 	justify-items:center;
 	float: center;
+	align-items: center;
 }
 
   
