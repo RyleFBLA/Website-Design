@@ -192,6 +192,7 @@
 }
 
 .featuredItemText p{
+	margin-top: 22px;
 	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	font-size: 50px;
 }
@@ -246,6 +247,8 @@
   .menuItems .item{
 	  float: left;
   }
+/** Gallery **/
+
   
 /** Footer **/
 .footer{
