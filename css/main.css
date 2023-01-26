@@ -250,7 +250,7 @@
   }
 /** Gallery **/
 .center{
-	justify-content:center;
+	justify-items:center;
 	float: center;
 }
 
