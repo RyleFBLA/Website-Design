@@ -250,8 +250,9 @@
 	  display: none;
   }
 
-  .activeItem{
+  .menuItems .activeItem{
 	display:block;
+	float: left;
   }
 /** Gallery **/
 .center{
