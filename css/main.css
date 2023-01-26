@@ -249,17 +249,9 @@
 	  float: left;
   }
 /** Gallery **/
-.Gallery{
-	width:174;
-	height:132;
+.center{
+	align-items: center;
 }
-.GalleryHeader{
-	height: 120px;
-    vertical-align: middle;
-    text-align: center; 
-}
-.floatLeft {float:left;}
-.floatRigth {float:right;}
 
   
 /** Footer **/
