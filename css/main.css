@@ -250,11 +250,16 @@
 	  float: left;
   }
 /** Gallery **/
-.GalleryTitle{
-	width:150px;
-	height:150px;
-	margin-right: 15px;
-	vertical-align: middle;
+.container{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+img{
+	max-width:100%;
+}
+.img-col{
+	flex-basis: 40%;
 }
 
   
