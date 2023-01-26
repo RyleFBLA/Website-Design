@@ -247,12 +247,6 @@
   
   .menuItems .item{
 	  float: left;
-	  display: none;
-  }
-
-  .menuItems .activeItem{
-	display:block;
-	float: left;
   }
 /** Gallery **/
 .center{
