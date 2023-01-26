@@ -110,7 +110,7 @@
 
 .locationPic{
   	padding: 10px 0 0 10px;
-	margin-top: 15px;
+	margin-top: 22px;
 	float:left;
 	width: 44%;
 }
@@ -156,6 +156,7 @@
 }
 
 .homeTable th, td{
+	margin-top:22px;
 	border: 5px solid;
 	font-family:'Times New Roman', Times, serif;
 	font-size: 50px;
@@ -182,18 +183,16 @@
 }
 
 .featuredItemText {
-	padding: 20px;
+	padding: 50px;
 	margin-top: 22px;
 	float:right;
 	text-align: left;
 	width: 44%;
-	font-size: 50px;
-	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .featuredItemText p{
-	font-family:'Times New Roman', Times, serif;
-	font-size: 20px;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 50px;
 }
 /** Menu Page **/
 
