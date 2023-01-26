@@ -251,13 +251,7 @@
   }
 /** Gallery **/
 
-.GalleryTitle{
-	width:44%;
-}
-
 .GalleryTitle img{
-	width: 50%;
-	height:50%;
 	border-width: 5px;
 	border-style: solid;
 	border-color: white;
