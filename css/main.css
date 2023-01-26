@@ -250,16 +250,22 @@
 	  float: left;
   }
 /** Gallery **/
-.container{
-	display:flex;
-	align-items:center;
-	justify-content:center;
+.GalleryTitle{
+	padding: 10px 0 0 10px;
+	margin-top: 15px;
+	float: left;
+	width: 44%;
 }
-img{
-	max-width:100%;
+
+.GalleryTitle img{
+	width: 100%;
+	border-width: 5px;
+	border-style: solid;
+	border-color: white;
 }
-.img-col{
-	flex-basis: 40%;
+.GalleryTitle p{
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 50px;
 }
 
   
