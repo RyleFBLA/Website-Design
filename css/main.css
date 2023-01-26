@@ -117,6 +117,7 @@
 
 .locationPic img{
 	width: 100%;
+	border: 5px solid black;
 }
 
 .locationPic h1{
@@ -124,12 +125,16 @@
 	width: 100%;
 	margin-bottom: 40px;
 	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size:50px;
+	font-weight:bold;
 }
 
 .mainSec .locationPic p{
 	float: left;
 	width: 100%;
 	margin-bottom: 20px;
+	font-size:30px;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
 .interiorPic{
@@ -142,7 +147,7 @@
 
 .interiorPic img{
 	width: 100%;
-	border: 10px solid black;
+	border: 5px solid black;
 }
 
 .itemSec{
