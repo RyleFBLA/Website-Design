@@ -54,7 +54,7 @@
 
 		<div class="menuItems">
 			<div class="item">
-				<object id="appetizers" class="item active" data="menu\appetizers.txt"></object>
+				<object id="appetizers" class="activeItem" data="menu\appetizers.txt"></object>
 			</div>
 			<div class="item">
 				<object id="soup" class="item" data="menu\soup.txt"></object>
@@ -123,7 +123,6 @@
 	<script>
 		var header = document.getElementById("myDiv");
 		var btns = header.getElementsByClassName("btn");
-		var items = header.getElementsByClassName("item");
 		for (var i = 0; i < btns.length; i++)
 		{
 			btns[i].addEventListener("click", function() 
@@ -133,7 +132,6 @@
 				current[0].className = 
 				current[0].className.replace("active", "");
 				this.className += " active";
-				items[i] += " active";
 			});
 		}
 	</script>
