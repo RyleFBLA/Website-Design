@@ -253,6 +253,8 @@
 	justify-items:center;
 	float: center;
 	align-items: center;
+	width:110;
+	height:110;
 }
 #myImg {
 	border-radius: 5px;
