@@ -240,13 +240,15 @@
   
   .menuItems{
 	margin-top: 22px;
-	float:right;
-	text-align: left;
+	float:center;
+	text-align: center;
 	width: 44%;
   }
   
   .menuItems .item{
 	  float: left;
+	  font-size: 20px;
+	  margin-left: 20%;
   }
 /** Gallery **/
 .center{
