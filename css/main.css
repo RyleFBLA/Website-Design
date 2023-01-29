@@ -249,6 +249,9 @@
 	  float: left;
   }
 /** Gallery **/
+.GalleryTable{
+	justify-content:center;
+}
 .center{
 	justify-items:center;
 	float: center;
