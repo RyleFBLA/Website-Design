@@ -240,13 +240,18 @@
   
   .menuItems{
 	margin-top: 22px;
-	float:right;
-	text-align: left;
+	float:center;
 	width: 44%;
+	margin-left: 23%;
   }
   
   .menuItems .item{
-	  float: left;
+	  float: center;
+	  text-align: center;
+	  font-size: 16px;
+	  margin-left: 30%;
+	  font-family:'Times New Roman', Times, serif;
+	  padding:5px 20px;
   }
 /** Gallery **/
 .GalleryTable{
