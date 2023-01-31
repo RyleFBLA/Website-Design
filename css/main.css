@@ -193,9 +193,13 @@
 
 }
 
-.featuredItemText p{
+.featuredItemText h1{
 	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	font-size: 50px;
+}
+.featuredItemText p{
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 25px;
 }
 /** Menu Page **/
 
